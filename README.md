@@ -7,6 +7,12 @@ This is a fullstack news aggregator application that allows users to sign up, lo
 - Users can manage their interests
 - News articles are summarized using HuggingFace API
 
+## Video Demonstration
+Watch the video demonstration - https://drive.google.com/file/d/1GOhYzauJpGYdzPpid_6PWhnB34w-P_vj/view
+
+Note: The application may take a little longer to load news articles due to HuggingFace API limits. This might cause delays in some cases, but the application works fine in deployment. The API has a limit of 1000 hits, which might impact performance.
+
+
 ## Tech Stack
 ### Backend:
 - Node.js
