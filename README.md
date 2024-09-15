@@ -1,6 +1,9 @@
 # news-aggregator
 This is a fullstack news aggregator website that allows users to sign up, log in, and view news based on their interests. The backend is built using Node.js, Express, and MongoDB, while the frontend is built using React.
 
+# video Demonstration
+ Link : https://drive.google.com/file/d/1GOhYzauJpGYdzPpid_6PWhnB34w-P_vj/view
+
 ### Backend:
 - Node.js
 - Express
